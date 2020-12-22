@@ -14,7 +14,7 @@ Twitter WeRateDog: https://twitter.com/dog_rates
 
 ## Summary of Findings
 
-> 59.6% of ratings are greater than and 40.3% of ratings are equal or less than one. Obviously around 60% of people enjoyed making fun of this rating system that doesn't make too muchc sense.
-> pupper, doggo, and favorites are related and have the ability to predict dog rating given that some of the outliers are removed
-> Generally, a trend that if more than two models have prediction "True" would have more favorites can be noticed, but with one exception.
+> -  59.6% of ratings are greater than and 40.3% of ratings are equal or less than one. Obviously around 60% of people enjoyed making fun of this rating system that doesn't make too muchc sense.
+> - pupper, doggo, and favorites are related and have the ability to predict dog rating given that some of the outliers are removed
+> - Generally, a trend that if more than two models have prediction "True" would have more favorites can be noticed, but with one exception.
 
